@@ -1,0 +1,46 @@
+[
+    {
+        "id":"001",
+        "username":"AffaN fARHAN",
+        "email":"affan@gmail.com",
+        "number":"3201",
+        "password":"0210"
+        
+    },
+
+    {
+        "id":"002",
+        "username":"abdulahad",
+        "email":"A.ahad@gmail.com",
+        "number":"4201",
+        "password":"0410"
+        
+    },
+
+    {
+        "id":"004",
+        "username":"Ghulam abbas",
+        "email":"Ghulam abbas@gmail.com",
+        "number":"5201",
+        "password":"6210"
+        
+    },
+
+    {
+        "id":"009",
+        "username":"syed faizan",
+        "email":"faizan@gmail.com",
+        "number":"4201",
+        "password":"1210"
+        
+    },
+
+    {
+        "id":"010",
+        "username":"hasnain",
+        "email":"hasnain@gmail.com",
+        "number":"1501",
+        "password":"1410"
+        
+    }
+]
